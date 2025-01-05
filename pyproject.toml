@@ -40,7 +40,7 @@ python = ">=3.11,<3.12"
 numpy = "^1.26.2"
 
 # Web and Data Retrieval
-requests = "^2.31.0"
+requests = "^2.32.2"
 beautifulsoup4 = "^4.12.2"
 feedparser = "^6.0.10"
 html2text = "^2020.1.16"
@@ -63,11 +63,11 @@ peewee = "^3.17.0"
 chromadb = "^0.4.19"
 
 # PyTorch and Extensions
-torch = {version = "^2.1.2+cpu", source = "pytorch"}
+torch = {version = "^2.2.0", source = "pytorch"}
 fairscale = "^0.4.13"
 
 # NLP (Natural Language Processing)
-transformers = "^4.36.2"
+transformers = "^4.38.0"
 safetensors = "^0.4.1"
 sentencepiece = "^0.1.99"
 
@@ -86,7 +86,7 @@ bpython = "^0.24"
 pre_commit = "^3.6.0"
 pyupgrade = "^3.15.0"
 pytest = "^7.4.3"
-black = "^23.12.0"
+black = "^24.3.0"
 isort = "^5.13.2"
 flake8 = "^6.1.0"
 build = "^1.0.3"
